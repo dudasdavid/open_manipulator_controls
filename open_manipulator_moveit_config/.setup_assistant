@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Ryan Shim
     author_email: jhshim@robotis.com
-    generated_timestamp: 1583383975
+    generated_timestamp: 1685212382
